@@ -8,27 +8,17 @@ weight: 10
 
 {{< timeline >}}
 
-{{< timelineItem icon="github" header="header" badge="badge test" subheader="subheader" >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non magna ex. Donec sollicitudin ut lorem quis lobortis. Nam ac ipsum libero. Sed a ex eget ipsum tincidunt venenatis quis sed nisl. Pellentesque sed urna vel odio consequat tincidunt id ut purus. Nam sollicitudin est sed dui interdum rhoncus. 
+{{< timelineItem icon="download" header="We manage your most essential logs" badge="you choose what it is">}}
+Cost-effective, quick, and secure log
+management and analytics tailored for
+small and medium-sized projects.
 {{< /timelineItem >}}
 
-
-{{< timelineItem icon="code" header="Another Awesome Header" badge="date - present" subheader="Awesome Subheader" >}}
-With html code
-<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
-{{< /timelineItem >}}
-
-{{< timelineItem icon="star" header="Shortcodes" badge="AWESOME" >}}
-With other shortcodes
-
-{{< /timelineItem >}}
-
-{{< timelineItem icon="code" header="Another Awesome Header">}}
-{{< github repo="nunocoracao/blowfish" >}}
+{{< timelineItem icon="star" header="Why LogSentry?" badge="Because it's AWESOME" >}}
+Let’s be honest: while Splunk is fantastic for large
+enterprises, its pricing can be challenging for small
+projects. LogSentry offers a cost-effective solution to
+manage your logs efficiently.
 {{< /timelineItem >}}
 
 {{< /timeline >}}
