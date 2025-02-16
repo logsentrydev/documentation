@@ -12,4 +12,5 @@ authors:
 showAuthorsBadges : false 
 ---
 
-# This is a test
+# Retrieving Drupal loges in LogSentry
+
