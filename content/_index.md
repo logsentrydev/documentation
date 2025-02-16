@@ -6,9 +6,15 @@ showAuthor: false
 weight: 10
 ---
 
+<div class="text-center py-6">
+{{< button href="/documentation/getting-started/" target="_self" >}}
+Read the documentation
+{{< /button >}}
+</div>
+
 {{< timeline >}}
 
-{{< timelineItem icon="download" header="We manage your most essential logs" badge="you choose what it is">}}
+{{< timelineItem icon="download" header="Let us manage your most essential logs" badge="you choose what it is">}}
 Cost-effective, quick, and secure log
 management and analytics tailored for
 small and medium-sized projects.
