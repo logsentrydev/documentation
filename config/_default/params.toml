@@ -62,10 +62,10 @@ enableCodeCopy = true
   #sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
 
 [list]
-  showBreadcrumbs = false
-  showSummary = true
+  showBreadcrumbs = true
+  showSummary = false
   showTableOfContents = false
-  showCards = false
+  showCards = true
   groupByYear = true
   cardView = false
   cardViewScreenWidth = false
